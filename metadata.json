@@ -1,0 +1,6 @@
+{
+  "name": "MommyAI Tools",
+  "description": "Direktori dan peluncur tools AI MommyAI dalam satu tempat untuk konten, desain, video, affiliate, dan edukasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
